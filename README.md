@@ -14,6 +14,10 @@
 [NEP Ideation](https://app.gitbook.com/o/wxNIOkA8NaT6omjLbqYh/s/TMh3Z7C4QzYo9Q8Oa3cq/)
 {% endcontent-ref %}
 
+{% content-ref url="https://app.gitbook.com/o/wxNIOkA8NaT6omjLbqYh/s/thv9RgvV6S5LYy0BQz01/" %}
+[Resources](https://app.gitbook.com/o/wxNIOkA8NaT6omjLbqYh/s/thv9RgvV6S5LYy0BQz01/)
+{% endcontent-ref %}
+
 Community Groups or Builder Groups are developer centric interest groups on specific NEAR ecosystem verticals dedicated to support projects & developer governance from the ground up, and push protocol standards as [NEPs](https://github.com/near/NEPs), and build open source tooling.
 
 ## 📚 LEARN ABOUT DEVELOPER GOVERNANCE [neardevgov.org](https://neardevgov.org/)

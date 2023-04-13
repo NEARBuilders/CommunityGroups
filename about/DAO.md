@@ -34,3 +34,12 @@ Some topics of interest for the DAO Builder Group include but are no limited to
 # Resources
 
 - Original Governance Post [nearbuilders.com/dao-post](http://nearbuilders.com/dao-post)
+
+
+# DAO Events
+
+---
+
+## Community Calls
+
+The DAO Builder Groups host regular calls weekly at Tuesday at 2PM EST (register [here](https://nearbuilders.com/dao-calendar)). All calls can be found here. [nearbuilders.com/dao-videos](http://nearbuilders.com/dao-videos) 

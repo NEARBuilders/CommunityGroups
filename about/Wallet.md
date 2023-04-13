@@ -28,3 +28,22 @@ This informal self-organized group provides a space for anyone interested in the
 # Resources
 
 - Original Governance Post [nearbuilders.com/wallet-post](http://nearbuilders.com/wallet-post)
+
+# WALLET Events
+
+---
+
+## **Community Calls**
+
+The Wallet Builder Group host regular calls weekly at Tuesday at 12PM EST  (register [here](https://nearbuilders.com/wallet-calendar)). All calls can be found here. [nearbuilders.com/wallet-videos](http://nearbuilders.com/wallet-videos) 
+
+## **Work Group Calls**
+
+The Wallet Standards Work Group may host public formal calls to review specific proposals, discuss attestations, or vote on decisions to review Wallet related proposals
+
+| Meeting Name | Recording |
+| --- | --- |
+| Wallet Standards Working Group Meeting – October 21, 2022  | https://youtu.be/JQu8tObzhlM |
+| Wallet Standards Working Group Meeting – January 17, 2023 | https://youtu.be/Y6z7lUJSUuA |
+
+
